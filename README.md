@@ -13,7 +13,7 @@
 硬盘 | ~~500GB 7200转 2.5" 7mm SATAIII硬盘~~ 增加两块 SSD 256G STATIII硬盘
 集成显卡 | Intel HD Graphics 620
 独立显卡 | AMD Radeon R5 M430 DDR3L 2G
-显示器	| 15.6英寸 16:9 HD 1366x768
+显示器	| 15.6英寸 16:9 HD 1920x1080
 光驱	| DVD Super-Multi 刻录光驱 / N/A 
 声卡 | Realtek ALC236
 摄像头 | 720P HD摄像头
